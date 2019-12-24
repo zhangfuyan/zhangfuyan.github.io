@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangfuyan.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-12-24T14:42:18.129Z</updated>
+    <title>Freya&apos;s Homepage</title>
+    <updated>2019-12-24T14:48:44.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangfuyan.github.io/"/>
     <link rel="self" href="https://zhangfuyan.github.io//atom.xml"/>
-    <subtitle>freya&apos;s resume</subtitle>
+    <subtitle>WELCOME</subtitle>
     <logo>https://zhangfuyan.github.io//images/avatar.png</logo>
     <icon>https://zhangfuyan.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Freya&apos;s Homepage</rights>
     <entry>
         <title type="html"><![CDATA[personal resume]]></title>
         <id>https://zhangfuyan.github.io//post/personal-resume</id>
