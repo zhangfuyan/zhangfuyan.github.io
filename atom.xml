@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangfuyan.github.io/</id>
-    <title></title>
-    <updated>2019-12-25T06:48:21.446Z</updated>
+    <title>Freya</title>
+    <updated>2019-12-25T07:21:23.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangfuyan.github.io/"/>
     <link rel="self" href="https://zhangfuyan.github.io//atom.xml"/>
     <logo>https://zhangfuyan.github.io//images/avatar.png</logo>
     <icon>https://zhangfuyan.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, </rights>
+    <rights>All rights reserved 2019, Freya</rights>
     <entry>
         <title type="html"><![CDATA[项目演示说明文档]]></title>
         <id>https://zhangfuyan.github.io//post/xiang-mu-yan-shi-shuo-ming-wen-dang</id>
@@ -34,8 +34,7 @@ file:///C:/Users/asus/Desktop/Six%20team%20Git%E5%92%8CGitHub%E5%85%A5%E9%97%A8%
         <link href="https://zhangfuyan.github.io//post/personal-resume">
         </link>
         <updated>2019-12-24T14:28:57.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://zhangfuyan.github.io//post-images/1577197753390.jpg" alt=""></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zhangfuyan.github.io//post-images/1577197753390.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
