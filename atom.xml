@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangfuyan.github.io/</id>
     <title>Freya&apos;s Homepage</title>
-    <updated>2019-12-25T05:34:15.412Z</updated>
+    <updated>2019-12-25T06:07:23.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangfuyan.github.io/"/>
     <link rel="self" href="https://zhangfuyan.github.io//atom.xml"/>
     <logo>https://zhangfuyan.github.io//images/avatar.png</logo>
     <icon>https://zhangfuyan.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Freya&apos;s Homepage</rights>
+    <entry>
+        <title type="html"><![CDATA[项目演示说明文档]]></title>
+        <id>https://zhangfuyan.github.io//post/xiang-mu-yan-shi-shuo-ming-wen-dang</id>
+        <link href="https://zhangfuyan.github.io//post/xiang-mu-yan-shi-shuo-ming-wen-dang">
+        </link>
+        <updated>2019-12-25T05:48:07.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zhangfuyan.github.io//post-images/1577253308066.png" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Intro to Git and GitHub for Beginners]]></title>
         <id>https://zhangfuyan.github.io//post/xiao-zu-fan-yi-cheng-pin</id>
