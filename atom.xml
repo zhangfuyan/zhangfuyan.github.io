@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangfuyan.github.io/</id>
-    <title>Freya&apos;s Homepage</title>
-    <updated>2019-12-25T06:07:23.686Z</updated>
+    <title></title>
+    <updated>2019-12-25T06:48:21.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangfuyan.github.io/"/>
     <link rel="self" href="https://zhangfuyan.github.io//atom.xml"/>
     <logo>https://zhangfuyan.github.io//images/avatar.png</logo>
     <icon>https://zhangfuyan.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Freya&apos;s Homepage</rights>
+    <rights>All rights reserved 2019, </rights>
     <entry>
         <title type="html"><![CDATA[项目演示说明文档]]></title>
         <id>https://zhangfuyan.github.io//post/xiang-mu-yan-shi-shuo-ming-wen-dang</id>
@@ -24,7 +24,7 @@
         <link href="https://zhangfuyan.github.io//post/xiao-zu-fan-yi-cheng-pin">
         </link>
         <updated>2019-12-25T05:12:15.000Z</updated>
-        <content type="html"><![CDATA[<p>请双击打开😜😝😛<br>
+        <content type="html"><![CDATA[<p>请双击打开👇<br>
 file:///C:/Users/asus/Desktop/Six%20team%20Git%E5%92%8CGitHub%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88%E6%95%99%E7%A8%8B%EF%BC%89.html</p>
 ]]></content>
     </entry>
@@ -34,7 +34,8 @@ file:///C:/Users/asus/Desktop/Six%20team%20Git%E5%92%8CGitHub%E5%85%A5%E9%97%A8%
         <link href="https://zhangfuyan.github.io//post/personal-resume">
         </link>
         <updated>2019-12-24T14:28:57.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zhangfuyan.github.io//post-images/1577197753390.jpg" alt=""></figure>
+        <content type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://zhangfuyan.github.io//post-images/1577197753390.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
@@ -43,7 +44,5 @@ file:///C:/Users/asus/Desktop/Six%20team%20Git%E5%92%8CGitHub%E5%85%A5%E9%97%A8%
         <link href="https://zhangfuyan.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zhangfuyan.github.io//post-images/1577208290933.jpg" alt=""></figure>
-]]></content>
     </entry>
 </feed>
